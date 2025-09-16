@@ -2,6 +2,12 @@
 
 A multi-seller bookstore mobile application built with React Native (Expo) frontend and Node.js/Express backend.
 
+## 🎥 Live Demo
+
+[![BookStore App Demo](https://img.youtube.com/vi/E4DrTNhDnVA/0.jpg)](https://youtu.be/E4DrTNhDnVA?si=LTcVACZqEr7cU0wc)
+
+Click the image above to watch the demo on YouTube
+
 ## Features
 
 ### Buyer Side (Storefront)
